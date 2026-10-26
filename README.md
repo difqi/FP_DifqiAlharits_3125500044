@@ -4,7 +4,7 @@
 
 - **Nama:** Difqi Alharits
 - **NRP:** 3125500044
-- **Program Studi:** [Lengkapi program studi]
+- **Program Studi:**   D3 Teknik Informatika
 
 ## Project Roboflow
 
@@ -114,4 +114,4 @@ Proyek ini menunjukkan bahwa kualitas dan keberagaman dataset, konsistensi anota
 
 ## Video Demo
 
-[Masukkan tautan Google Drive video demo setelah selesai diunggah]
+https://drive.google.com/file/d/1h4_YIYW8vRb2h9wb4HfTpAj2c7uSzhB2/view?usp=drive_link
